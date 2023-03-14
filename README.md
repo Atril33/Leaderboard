@@ -59,7 +59,6 @@ After you're finished please remove all the comments and instructions!
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > - [Live Demo Link]
-**[Todo List]**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -118,7 +117,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need: to Clone the repo.
 <!--
 Example command:
-_git clone https://github.com/Atril33/Todo_List_ES6.git_
+_git clone https://github.com/Atril33/Leaderboard.git
 ```sh
  gem install rails
 ```
@@ -128,7 +127,7 @@ _git clone https://github.com/Atril33/Todo_List_ES6.git_
 
 Clone this repository to your desired folder:
 _ Opend CMD, Terminal or GitBash in your pc and type this
- _git clone command _https://github.com/Atril33/Todo_List_ES6.git_
+ _git clone command _https://github.com/Atril33/Leaderboard.gitt_
 
 <!--
 Example commands:
@@ -149,7 +148,7 @@ Example command:
 
 ```sh
   cd my-project
-  _git clone https://github.com/Atril33/Todo_List_ES6.git_
+  _git clone https://github.com/Atril33/Leaderboard.git_
 ```
 --->
 
@@ -157,7 +156,7 @@ Example command:
 
 To run the project, execute the following command:
 _ You can use it by download in your computer.
- This is this link for this project _https://github.com/Atril33/Todo_List_ES6.git_
+ This is this link for this project _https://github.com/Atril33/Leaderboard.git_
 <!--
 Example command:
 
