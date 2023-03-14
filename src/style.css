@@ -1,0 +1,92 @@
+* {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  margin: 20px;
+  font-size: 40px;
+}
+
+.big-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 60%;
+  height: 500px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.small-container1 {
+  width: 45%;
+  height: 100%;
+  padding: 15px;
+}
+
+.recent-score {
+  display: flex;
+  justify-content: space-between;
+}
+
+#reff {
+  width: 80px;
+  background: transparent;
+  border: 2px solid #000;
+  border-right: 4px solid #000;
+  border-bottom: 4px solid #000;
+  padding: 3px 5px;
+  margin-right: 30px;
+  cursor: pointer;
+}
+
+.score-records {
+  width: 90%;
+  height: 300px;
+  margin-top: 40px;
+  border: 2px solid #000;
+  overflow: auto;
+  overflow-x: hidden;
+}
+
+.my-record {
+  width: 100%;
+  background: #fff;
+  padding: 5px;
+  margin: 3px 0;
+}
+
+.input-data * {
+  margin-bottom: 15px;
+}
+
+#input,
+#input1 {
+  width: 80%;
+  border: 2px solid #000;
+}
+
+#bttn {
+  float: right;
+  margin-right: 70px;
+  background: transparent;
+  border: 2px solid #000;
+  border-right: 4px solid #000;
+  border-bottom: 4px solid #000;
+  padding: 3px 5px;
+  cursor: pointer;
+}
+
+h2 {
+  font-size: 30px;
+}
