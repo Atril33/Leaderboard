@@ -10,8 +10,6 @@ REQUIRED SECTIONS:
 - Table of Contents
 - About the Project
   - Built With
-  - Live Demo
-- Getting Started
 - Authors
 - Future Features- 
  - Mobile version design
@@ -37,7 +35,6 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -55,10 +52,6 @@ After you're finished please remove all the comments and instructions!
 
 > This is Leaderboard Project. We used _HTML, CSS & JAVASCRIPT_ to create this Leaderboard Project.
 <!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> - [Live Demo Link]
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -105,12 +98,6 @@ _ **[javascript functions, modules, ES6 syntax, variables, etc]**
 
 > I will use API to store user data in the Leaderboard Project.
 <!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
@@ -179,9 +166,6 @@ Example:
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors">Syed</a>
-
-> This Project is created by Syed Atril
-
 ## 🛠 Built With <a name="built-with"></a>
 - HTML
 - CSS
@@ -208,22 +192,19 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
-
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+> If you like this project feel comfortable to endorse the authors. Give a star in github repository.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
+> We would like to thank my coding partners, mentors and Microverse for their support in building the project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
