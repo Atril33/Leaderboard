@@ -31,7 +31,6 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -48,19 +47,20 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Leaderboard] <a name="about-project"></a>
+# 📖 Leaderboard
 
-> This is Leaderboard Project. We used _HTML, CSS & JAVASCRIPT_ to create this Leaderboard Project.
-<!-- LIVE DEMO -->
+> This is Leaderboard website Users can add scores and names permanently in by using this Leaderboard webiste. I used HTML, CSS, JS and API in this project.
 
 ## 🛠 Built With <a name="built-with"></a>
-
+- HTML
+- CSS
+- JS
 ### Tech Stack <a name="tech-stack"></a>
 
 > I Used Gitflow, modules, and advanced JS (ES6) in the Leaderboard Project.
 
 <details>
-  <summary>Clien</summary>
+  <summary>HTML</summary>
   <ul>
     <li><a href="https://www.w3schools.com/html/">HTML</a></li>
      <li><a href="https://www.w3schools.com/css/">CSS</a></li>
@@ -68,25 +68,9 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li>N/A</li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li>N/A</li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **[Html structure with Button, Inputs, etc]**
 - **[Styling css with colors, borders, paddings, margins & sizes, etc]**
@@ -96,8 +80,26 @@ _ **[javascript functions, modules, ES6 syntax, variables, etc]**
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> I will use API to store user data in the Leaderboard Project.
+> I will Add style in this project with functions.
 <!-- GETTING STARTED -->
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors">Syed</a>
+
+## 🛠 Built With <a name="built-with"></a>
+- HTML
+- CSS
+- JAVASCRIPT
+# <a name="authors">Syed Atril</a>
+👤 **Syed Atril**
+
+- GitHub: [@githubhandle](https://github.com/Atril33)
+- Twitter: [@twitterhandle](https://twitter.com/AtrilSyed)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/syed-atril-831696248/)
+- Facebook [Facebook](https://web.facebook.com/profile.php?id=100073724910623)
+
+
+## 💻 Getting Started <a name="getting-started"></a>
 
 ### Prerequisites
 
@@ -112,9 +114,10 @@ _git clone https://github.com/Atril33/Leaderboard.git
 
 ### Setup
 
-Clone this repository to your desired folder:
-_ Opend CMD, Terminal or GitBash in your pc and type this
- _git clone command _https://github.com/Atril33/Leaderboard.gitt_
+Clone this repository to your desired folder: <br>
+`Opend CMD, Terminal or GitBash in your pc and type this` <br>
+`git clone command _https://github.com/Atril33/Leaderboard.gitt`
+ 
 
 <!--
 Example commands:
@@ -127,9 +130,9 @@ https://github.com/Atril33/Todo_List_ES6.git
 
 ### Install
 
-Install this project with:
-_ You need to run this command _npm i_
-Then run this comman _npm run dev_
+Install this project with: <br>
+_You need to run this command `npm i`_ <br>
+_Then run this comman `npm run start`_
 <!--
 Example command:
 
@@ -140,10 +143,7 @@ Example command:
 --->
 
 ### Usage
-
-To run the project, execute the following command:
-_ You can use it by download in your computer.
- This is this link for this project _https://github.com/Atril33/Leaderboard.git_
+_Run the project on Visual Studio Code Live Server._
 <!--
 Example command:
 
@@ -161,22 +161,6 @@ Example:
 ```
  -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors">Syed</a>
-## 🛠 Built With <a name="built-with"></a>
-- HTML
-- CSS
-- JAVASCRIPT
-# <a name="authors">Syed Atril</a>
-👤 **Syed Atril**
-
-- GitHub: [@githubhandle](https://github.com/Atril33)
-- Twitter: [@twitterhandle](https://twitter.com/AtrilSyed)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/syed-atril-831696248/)
-- Facebook [Facebook](https://web.facebook.com/profile.php?id=100073724910623)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
