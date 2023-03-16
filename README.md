@@ -85,11 +85,6 @@ _ **[javascript functions, modules, ES6 syntax, variables, etc]**
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors">Syed</a>
-
-## 🛠 Built With <a name="built-with"></a>
-- HTML
-- CSS
-- JAVASCRIPT
 # <a name="authors">Syed Atril</a>
 👤 **Syed Atril**
 
