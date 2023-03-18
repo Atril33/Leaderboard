@@ -17,6 +17,8 @@ const myAddData = async () => {
     },
   )
     .then((response) => response.json());
+  myUser.value = '';
+  myScore.value = '';
 };
 
 myAdd.addEventListener('click', myAddData);

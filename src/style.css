@@ -43,12 +43,14 @@ h1 {
   box-shadow: 10px 10px 80px -8px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 10px 10px 80px -8px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 10px 10px 80px -8px rgba(0, 0, 0, 0.75);
+  position: relative;
 }
 
 .small-container1 {
   width: 45%;
   height: 100%;
   padding: 15px;
+  z-index: 2;
 }
 
 .recent-score {
@@ -101,6 +103,12 @@ h1 {
 
 h2 {
   font-size: 30px;
+}
+
+@media screen and (max-width: 1072px) {
+  .container {
+    height: 450px;
+  }
 }
 
 @media screen and (max-width: 768px) {

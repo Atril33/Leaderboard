@@ -15,7 +15,7 @@ const getData = async () => {
       myData.forEach((x) => {
         const li = document.createElement('li');
         li.className = 'my-record';
-        li.innerHTML = `${x.user} : ${x.score}`;
+        li.innerHTML = `${x.user.charAt(0).toUpperCase() + x.user.slice(1)} : ${x.score}`;
         myListHolder.appendChild(li);
       });
     });
