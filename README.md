@@ -1,166 +1,110 @@
-<div style="text-aling:center;"><h1>LEADERBOARD</h1></div>
-<center>
-<img src="https://github.com/Atril33/Leaderboard/blob/develop/src/Leaderboard.png"></center>
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-- Authors
-- Future Features- 
- - Mobile version design
-- Desktop version design
-- Dynamic HTML for featured-speakers
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
+<a name="readme-top"></a>
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <br/>
-</div>
-
+  <img src="https://github.com/Atril33/Leaderboard/blob/develop/Live_preview.png" width="650px" />
+  </div>
+  
 <!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
+- [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [🔭 Future Features](#future-features)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+# 📖 Leaderboard <a name="about-project"></a>
 
-# 📖 Leaderboard
-
-> This is Leaderboard website Users can add scores and names permanently in by using this Leaderboard webiste. I used HTML, CSS, JS and API in this project.
+> The Leaderboard is a web app developed using HTML, CSS & JS, utilizing an API for saving user game scores with names and comparing them with others' scores on the internet. It offers a platform for permanent score storage and comparison.
 
 ## 🛠 Built With <a name="built-with"></a>
-- HTML
-- CSS
-- JS
-### Tech Stack <a name="tech-stack"></a>
-
-> I Used Gitflow, modules, and advanced JS (ES6) in the Leaderboard Project.
-
 <details>
-  <summary>HTML</summary>
+  <summary>Client</summary>
   <ul>
     <li><a href="https://www.w3schools.com/html/">HTML</a></li>
-     <li><a href="https://www.w3schools.com/css/">CSS</a></li>
-     <li><a href="https://www.w3schools.com/css/">Javascript</a></li>
+    <li><a href="https://www.w3schools.com/css/">CSS</a></li>
+    <li><a href="https://www.w3schools.com/js/">JavaScript</a></li>
   </ul>
 </details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **[Html structure with Button, Inputs, etc]**
-- **[Styling css with colors, borders, paddings, margins & sizes, etc]**
-_ **[javascript functions, modules, ES6 syntax, variables, etc]**
+- **Responsive Design**
+- **Add Score & Name Functionality*
+- **Use API**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🔭 Future Features <a name="future-features"></a>
+<!-- LIVE DEMO -->
 
-> I will Add style in this project with functions.
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://atril33.github.io/My_Portfolio_complete/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- GETTING STARTED -->
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors">Syed</a>
-# <a name="authors">Syed Atril</a>
-👤 **Syed Atril**
-
-- GitHub: [@githubhandle](https://github.com/Atril33)
-- Twitter: [@twitterhandle](https://twitter.com/AtrilSyed)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/syed-atril-831696248/)
-- Facebook [Facebook](https://web.facebook.com/profile.php?id=100073724910623)
-
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
 ### Prerequisites
 
-In order to run this project you need: to Clone the repo.
-<!--
-Example command:
-_git clone https://github.com/Atril33/Leaderboard.git
-```sh
- gem install rails
-```
- -->
+In order to run this project you need:
+- **A PC with any Browser (Chrome, Opera, & FireFox, etc)**
 
 ### Setup
 
-Clone this repository to your desired folder: <br>
-`Opend CMD, Terminal or GitBash in your pc and type this` <br>
-`git clone command _https://github.com/Atril33/Leaderboard.gitt`
- 
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-https://github.com/Atril33/Todo_List_ES6.git
+Clone this repository to your desired folder:
+``` bash
+  https://github.com/Atril33/My_Portfolio_complete.git
 ```
---->
 
 ### Install
-
-Install this project with: <br>
-_You need to run this command `npm i`_ <br>
-_Then run this comman `npm run start`_
-<!--
-Example command:
-
+In order to check tests:
 ```sh
-  cd my-project
-  _git clone https://github.com/Atril33/Leaderboard.git_
+  npm i
 ```
---->
+### Run tests
 
-### Usage
-_Run the project on Visual Studio Code Live Server._
-<!--
-Example command:
-
+To run tests, run the following command:
+<br>
+_Check Stylelint errors_
 ```sh
-  rails server
-### Deployment
-
-You can deploy this project using:
-Not Yet
-<!--
-Example:
-
-```sh
-
+  npx stylelint "**/*.{css,scss}"
 ```
- -->
 
+_Check ESLint errors_
+```sh
+  npx eslint .
+```
+
+_Check Webhint errors_
+```sh
+   npx hint .
+```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+👤 **Syed Atril**
+
+- GitHub: [@githubhandle](https://github.com/Atril33)
+- Twitter: [@twitterhandle](https://twitter.com/AtrilSyed)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/syed-atril-831696248/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
+## 🔭 Future Features <a name="future-features"></a>
+- [x] **Add Popup Model**
+- [x] **Preserve Contact Form Data in Browser**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -172,17 +116,13 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-## ⭐️ Show your support <a name="support"></a>
-
-> If you like this project feel comfortable to endorse the authors. Give a star in github repository.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> We would like to thank my coding partners, mentors and Microverse for their support in building the project.
+I would like to say thanks to everyone who contribute to this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -190,8 +130,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## 📝 License <a name="license"></a>
 
-This project is [[MIT](https://choosealicense.com/licenses/mit/)](./LICENSE) licensed.
-
-> This project has [MIT license](https://choosealicense.com/licenses/mit/)
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
