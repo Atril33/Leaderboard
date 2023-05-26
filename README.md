@@ -69,6 +69,9 @@ In order to check tests:
 ```sh
   npm i
 ```
+```sh
+  npm start
+```
 ### Run tests
 
 To run tests, run the following command:
