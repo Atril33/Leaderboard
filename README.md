@@ -8,7 +8,6 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -45,7 +44,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://atril33.github.io/My_Portfolio_complete/)
+- [Live Demo Link](https://atril33.github.io/Leaderboard/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -62,7 +61,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 ``` bash
-  https://github.com/Atril33/My_Portfolio_complete.git
+  https://github.com/Atril33/Leaderboard.git
 ```
 
 ### Install
@@ -98,13 +97,6 @@ _Check Webhint errors_
 - GitHub: [@githubhandle](https://github.com/Atril33)
 - Twitter: [@twitterhandle](https://twitter.com/AtrilSyed)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/syed-atril-831696248/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-## 🔭 Future Features <a name="future-features"></a>
-- [x] **Add Popup Model**
-- [x] **Preserve Contact Form Data in Browser**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
