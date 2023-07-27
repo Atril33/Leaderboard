@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 <div align="center">
-  <img src="https://github.com/Atril33/Leaderboard/blob/develop/Live_preview.png" width="650px" />
+  <img src="https://github.com/Atril33/Leaderboard/blob/develop/Live_preview.png" width="auto" />
   </div>
   
 <!-- TABLE OF CONTENTS -->
